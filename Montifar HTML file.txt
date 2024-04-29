@@ -1,0 +1,9 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+  <title>strand</title>
+<body>
+Why,because I want to be a teacher and the couse that I will pick is Math major or Engineering 
+cause my aunt want me to be an engineer
+</body>
+</html>
